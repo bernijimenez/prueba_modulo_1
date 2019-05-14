@@ -1,0 +1,59 @@
+body {
+font-family: 'Open Sans', sans-serif;
+color: #373A3C
+}
+
+.navbar {
+  background-color:#660066;
+
+
+}
+
+header {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 10rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+.soy {
+  font-weight: 200;
+}
+
+.sobre-mi {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+.icon {
+  color:#660066;
+
+}
+.experience {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.card {
+  color:#373A3C;
+
+}
+h2,h4, h5 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+
+}
+
+
+.work {
+  background-color: #660066;
+  padding-left: 1rem;
+ padding-right: 1rem;
+}
+
+footer {
+  background-color: #660066;
+  padding: 70px;
+
+}
